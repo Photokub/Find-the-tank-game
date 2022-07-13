@@ -1,0 +1,8 @@
+/* вендорные */
+@import url("../vendor/normalize.css");
+
+/* field */
+@import url("../blocks/field/field.css");
+
+/* tank */
+@import url("../blocks/tank/tank.css");
